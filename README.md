@@ -60,6 +60,12 @@ This project provides a web application to convert DNA sequences to protein and 
 - `DNASequence/`: Django project folder.
 - `dna/`: Django app folder containing the main application.
 - `templates/`: HTML templates for the web pages.
+### Demo video 👇
+
+<p>
+ <a href="https://drive.google.com/file/d/1RhmA5AAZ4funuQgp2eiHEtZpRvecIoSx/view?usp=sharing" target="blank">
+  <img src="https://img.shields.io/badge/Video-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="brijesh" />
+</a>
 
 ### Contributing
 
