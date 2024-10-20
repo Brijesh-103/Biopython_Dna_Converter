@@ -76,6 +76,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 - **Author:** Brijesh Shekhda
 - **Email:** brijeshshekhda103@gmail.com
 - **GitHub:** [Brijesh-103](https://github.com/Brijesh-103)
+- **LinkdIn** [Brijesh Shekhda](https://www.linkedin.com/in/brijesh-shekhda)
 
 Feel free to reach out if you have any questions or suggestions!
 
